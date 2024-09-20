@@ -8,12 +8,11 @@ class lead():
   def create():
     print 'Lead created.'
  
-  def edit():
-    print 'Lead edited.'
+  def udpate():
+    print 'Lead update.'
  
   def view():
     print 'View lead.'
  
   def delete():
     print 'Delete lead.'
-
